@@ -1,1 +1,0 @@
-# CVX Book Chap 2 Solutions
