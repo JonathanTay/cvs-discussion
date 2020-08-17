@@ -1,5 +1,1 @@
-# test
-
-$ \sum_{i} {x_i} $ 
-
-$ E = mc $
+Repo for solutions of BV CVX book for cvx-discussion group
