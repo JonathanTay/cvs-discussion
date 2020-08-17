@@ -1,1 +1,5 @@
-CVX-discussion group solutions
+# test
+
+$ \sum_{i} {x_i} $ 
+
+$ E = mc $
